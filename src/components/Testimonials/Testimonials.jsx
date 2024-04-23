@@ -38,8 +38,8 @@ function Testimonials() {
                     <div className="user-info">
                         <img src={user_1} alt="" />
                     <div>
-                    <h3>William Jackson</h3>
-                    <span>Educuty,USA</span>
+                    <h3>Willy shan</h3>
+                    <span>Edusity,USA</span>
                     </div>
                 </div>
                 <p>Choosing to pursue my degree at Edusity was one of
@@ -54,8 +54,8 @@ function Testimonials() {
                     <div className="user-info">
                         <img src={user_2} alt="" />
                     <div>
-                    <h3>William Jackson</h3>
-                    <span>Educuty,USA</span>
+                    <h3>Dorb Kayyen</h3>
+                    <span>Educuty,London</span>
                     </div>
                 </div>
                 <p>Choosing to pursue my degree at Edusity was one of
@@ -70,8 +70,8 @@ function Testimonials() {
                     <div className="user-info">
                         <img src={user_3} alt="" />
                     <div>
-                    <h3>William Jackson</h3>
-                    <span>Educuty,USA</span>
+                    <h3>Letty Karva</h3>
+                    <span>Educuty,Cambridge</span>
                     </div>
                 </div>
                 <p>Choosing to pursue my degree at Edusity was one of
@@ -86,7 +86,7 @@ function Testimonials() {
                     <div className="user-info">
                         <img src={user_4} alt="" />
                     <div>
-                    <h3>William Jackson</h3>
+                    <h3>Jash Phutse</h3>
                     <span>Educuty,USA</span>
                     </div>
                 </div>

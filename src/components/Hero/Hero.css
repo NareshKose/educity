@@ -1,9 +1,10 @@
 .hero{
     width: 100%;
     min-height: 100vh;
-    background: url('../../assets/hero.png');
+    background:linear-gradient(rgba(8,0,10,0.4),rgba(8,0,10,0.4)), url('../../assets/hero.png');
     background-size: cover;
     background-position: center;
+    
    color: #fff; 
    display: flex;
    align-items: center;
